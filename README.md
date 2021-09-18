@@ -2,6 +2,10 @@
 
 Data grabber is use to scrape information from database and convert it into plain text.
 
+<b>Video Tutorial:
+https://youtu.be/9uCVRqM0Lto
+</b>
+
 <b><h1>DISCLAIMER</h1>
 
 THIS IS ONLY FOR EDUCATIONAL PURPOSE<br>
