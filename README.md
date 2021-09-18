@@ -1,5 +1,6 @@
 # DB-GRABBER
 
+Data grabber is use to scrape information from database and convert it into plain text.
 
 <b><h1>DISCLAIMER</h1>
 
